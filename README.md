@@ -13,7 +13,7 @@
     - [Requisitos Funcionales]()
       - [Reserva de Citas en Línea]()
       - [Administración y Gestión]()
-      - [Comunicación y Soporte]()
+      - [Comunicación y Soporte](#comunicación-y-soporte)
     - [Requisitos No Funcionales](#requisitos-no-funcionales)
     - [Requisitos Adicionales](#requisitos-adicionales)
     - [Conclusiones](#conclusiones)
